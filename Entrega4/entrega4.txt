@@ -1,0 +1,5 @@
+direccion privada: 192.168.10.3
+Direccion publica: 208.67.222.222
+MAC: 18-C0-4D-3C-44-61
+
+Las direcciones IP son distintas, las privadas son utilizadas dentro de una red local para identificar y comunicarse con dispositivos internos, mientras que las direcciones ip publicas son asignadas a redes externas para permitir laacion en internet y la identificacion unica de esos dispositivos a nivel mundial.
